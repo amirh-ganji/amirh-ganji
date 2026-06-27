@@ -41,7 +41,7 @@ I'm a computer science student based in Iran, currently finishing my thesis on *
 ML pipeline to detect pump phases in crypto markets using time-series analysis and classification models.  
 `Python` · `scikit-learn` · `Pandas` · `Technical Indicators`
 
-> *(Link to repo — add once public)*
+> 🔒 Private repository — will be public after thesis defense
 
 ---
 
