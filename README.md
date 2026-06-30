@@ -83,10 +83,6 @@ Below are my public repositories with a short description, link, and quick run n
 
 ---
 
-> If you’d like, I can add screenshots, CI badges, or demo links for any project — say which repos and I’ll update their READMEs.
-
----
-
 ## 🛠️ Skills & Tools
 
 **Languages**  
@@ -99,7 +95,7 @@ Below are my public repositories with a short description, link, and quick run n
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
