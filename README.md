@@ -33,6 +33,16 @@ LSTM-based pipeline to detect accumulation phases preceding pump-and-dump events
 
 > 🔒 Private repository — will be public after thesis defense
 
+### 🩺 [Breast Cancer Detection](https://github.com/amirh-ganji/breast-cancer-detection)
+
+Comparison of seven classical classifiers on the Wisconsin diagnostic dataset, with a reproducible split and stratified cross-validation.  
+`Python` · `scikit-learn` · `Matplotlib`
+
+### ✍️ [Handwritten Digit Recognition](https://github.com/amirh-ganji/handwritten-digit-recognition)
+
+Random Forest, SVM, MLP and KNN compared on the scikit-learn digits dataset, with cross-validated results.  
+`Python` · `scikit-learn` · `Matplotlib`
+
 ---
 
 ## 📫 Get in touch
