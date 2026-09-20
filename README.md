@@ -1,38 +1,44 @@
-# 👋 Hi, I'm Amirhossein Ganji
+# Hi, I'm Amir Hossein Ganji 👋
 
-🎓 Python Developer & AI/ML Enthusiast | Working on crypto market data analysis
+> Graduate student working on machine learning for financial time series.
 
----
-
-### 🔭 Currently working on
-My thesis project: **Crypto Pump Detection** a machine learning based system for detecting pump-and-dump patterns in cryptocurrency time-series data.
-
-### 🌱 Currently learning
-- LangChain and building RAG pipelines for LLM-based applications
-- Strengthening my skills in Linux, Docker, and deploying Python projects in production
-
-### 🤝 Looking to collaborate on
-Projects related to financial/crypto data analysis and LLM-based applications
-
-### 💬 Ask me about
-Python, Pandas, scikit-learn
+I'm a graduate student based in Iran, currently finishing my thesis on **detecting accumulation phases before pump-and-dump events in cryptocurrency markets**. My focus is Python, sequence models on time-series data, and building data-driven products.
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirh-ganji)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganji.amirh@gmail.com)
+## 🔭 What I'm working on
 
-## 💻 Tech Stack
+- **Crypto Pump Detection** — LSTM-based detection of accumulation phases before pump-and-dump events, using OHLCV data (thesis project)
+- **Currently learning:** LLM applications (embeddings, semantic search, RAG) through hands-on projects — repos will be added here as they're completed
+- Building my foundation in **Linux** and **Docker**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=amirh-ganji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=amirh-ganji&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirh-ganji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Skills & Tools
+
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**AI / Data** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Tools** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔍 Crypto Pump Detection
+
+LSTM-based pipeline to detect accumulation phases preceding pump-and-dump events in crypto markets, using OHLCV time-series data.  
+`Python` · `LSTM` · `Pandas` · `Technical Indicators`
+
+> 🔒 Private repository — will be public after thesis defense
+
+---
+
+## 📫 Get in touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/amirh-ganji)
+- 📧 ganji.amirh@gmail.com
+- 📱 Telegram: [@amirh_ganji](https://t.me/amirh_ganji)
+
+Open to collaborations on AI/ML projects and Python tools.
