@@ -7,7 +7,7 @@ I'm a graduate student based in Iran, currently working on my thesis on **early 
 
 ## 🔭 What I'm working on
 
-- **Crypto Pump Detection** — LSTM-based detection of accumulation phases before pump-and-dump events, using OHLCV data (thesis project)
+- **Crypto Pump Early Detection** — thesis in progress: time-series feature engineering and validation on minute-level market data, with unsupervised anomaly detection models planned for the modeling stage
 - **Currently learning:** LLM applications (embeddings, semantic search, RAG) through hands-on projects — repos will be added here as they're completed
 - Building my foundation in **Linux** and **Docker**
 
@@ -27,8 +27,8 @@ I'm a graduate student based in Iran, currently working on my thesis on **early 
 
 ### 🔍 Early Detection of Crypto Pump Events
 
-Unsupervised anomaly-detection framework for abnormal market behavior before verified pump events, built on time-series feature engineering and evaluated on lead time and false-alarm behavior.  
-`Python` · `Isolation Forest` · `LOF` · `One-Class SVM` · `LSTM Autoencoder`
+Thesis project on detecting abnormal market behavior before verified cryptocurrency pump events using an unsupervised anomaly-detection approach. Current stage: data preparation and time-series feature engineering; modeling comes next.  
+`Python` · `Pandas` · `Feature Engineering`
 
 > 🔒 Private repository — will be public after thesis defense
 
