@@ -2,8 +2,7 @@
 
 > Graduate student working on machine learning for financial time series.
 
-I'm a graduate student based in Iran, currently finishing my thesis on **detecting accumulation phases before pump-and-dump events in cryptocurrency markets**. My focus is Python, sequence models on time-series data, and building data-driven products.
-
+I'm a graduate student based in Iran, currently working on my thesis on **early detection of abnormal market behavior preceding cryptocurrency pump events**, using unsupervised anomaly detection on time-series data. My focus is Python, machine learning on financial time series, and building data-driven tools.
 ---
 
 ## 🔭 What I'm working on
@@ -26,10 +25,10 @@ I'm a graduate student based in Iran, currently finishing my thesis on **detecti
 
 ## 📌 Featured Projects
 
-### 🔍 Crypto Pump Detection
+### 🔍 Early Detection of Crypto Pump Events
 
-LSTM-based pipeline to detect accumulation phases preceding pump-and-dump events in crypto markets, using OHLCV time-series data.  
-`Python` · `LSTM` · `Pandas` · `Technical Indicators`
+Unsupervised anomaly-detection framework for abnormal market behavior before verified pump events, built on time-series feature engineering and evaluated on lead time and false-alarm behavior.  
+`Python` · `Isolation Forest` · `LOF` · `One-Class SVM` · `LSTM Autoencoder`
 
 > 🔒 Private repository — will be public after thesis defense
 
