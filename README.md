@@ -2,7 +2,9 @@
 
 > Graduate student working on machine learning for financial time series.
 
+
 I'm a graduate student based in Iran, currently working on my thesis on early detection of abnormal market behavior preceding cryptocurrency pump events, using unsupervised anomaly detection on time-series data. My focus is Python, machine learning on financial time series, and building data-driven tools.
+
 ---
 
 ## 🔭 What I'm working on
