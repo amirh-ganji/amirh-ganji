@@ -10,7 +10,7 @@ I'm a graduate student based in Iran, currently working on my thesis on early de
 ## 🔭 What I'm working on
 
 - **Crypto Pump Early Detection** — thesis in progress: time-series feature engineering and validation on minute-level market data, with unsupervised anomaly detection models planned for the modeling stage
-- **Currently learning:** LLM applications (embeddings, semantic search, RAG) through hands-on projects — repos will be added here as they're completed
+- **LLM Applications** — hands-on exercises with the OpenAI API, LangChain, LangGraph, HuggingFace and RAG: [llm-course-exercises](https://github.com/amirh-ganji/llm-course-exercises)
 - Building my foundation in **Linux** and **Docker**
 
 ---
